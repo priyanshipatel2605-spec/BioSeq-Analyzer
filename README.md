@@ -1,2 +1,36 @@
 # BioSeq-Analyzer
-Python-based bioinformatics tool for basic DNA sequence analysis.
+Python-based bioinformatics tool for basic DNA sequence analysis
+
+## Features
+
+- DNA sequence validation
+- DNA length calculation
+- A, T, G, C nucleotide counting
+- GC and AT content calculation
+- Complement sequence
+- Reverse complement
+- DNA to RNA conversion
+- Menu-based interface
+
+## Technologies Used
+
+- Python
+- Bioinformatics
+- String Processing
+
+## How to Run
+
+Run the program using Python:
+
+python bioseq_analyzer.py
+
+Then enter a DNA sequence containing A, T, G and C.
+
+## Project Purpose
+
+This project was developed to practice Python programming and basic bioinformatics concepts through DNA sequence analysis.
+
+## Author
+
+Priyanshi Patel
+B.Tech Biotechnology
